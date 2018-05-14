@@ -1,0 +1,6 @@
+#include <iostream>
+#include "Bibliotheque.hpp"
+
+void Bibliotheque::afficher() const{
+  
+}
